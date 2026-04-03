@@ -1,16 +1,12 @@
 {
   "name": "Updraft",
   "short_name": "Updraft",
-  "start_url": ".",
+  "id": "/pwa-test-site/",
+  "start_url": "/pwa-test-site/",
   "display": "standalone",
   "background_color": "#0d0b1a",
   "theme_color": "#0d0b1a",
   "icons": [
-    {
-      "src": "https://www.updraft.com/wp-content/uploads/2025/01/favicon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
     {
       "src": "https://www.updraft.com/wp-content/uploads/2025/01/favicon.png",
       "sizes": "512x512",
