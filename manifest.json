@@ -1,7 +1,7 @@
 {
   "name": "Updraft",
   "short_name": "Updraft",
-  "start_url": "/pwa-test-site/",
+  "start_url": "https://username.github.io/pwa-test-site/",
   "display": "standalone",
   "background_color": "#0d0b1a",
   "theme_color": "#0d0b1a",
