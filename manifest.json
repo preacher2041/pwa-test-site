@@ -1,7 +1,7 @@
 {
   "name": "Updraft",
   "short_name": "Updraft",
-  "start_url": "https://preacher2041.github.io/pwa-test-site/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#0d0b1a",
   "theme_color": "#0d0b1a",
